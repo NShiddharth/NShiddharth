@@ -30,8 +30,6 @@
 
 📄 [View my Resume](https://drive.google.com/file/d/1ADF0ZTXlmVaurb8hq7NjC96b7kqQVUg2/view?usp=sharing)
 
-> ⚡ **Founder of [Neuron Forage](https://github.com/NShiddharth)** — an AI learning community with **700+ members** and growing!
-
 <br clear="right"/>
 
 ---
