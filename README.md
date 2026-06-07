@@ -18,46 +18,60 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI/ML Engineer** and **Computer Vision Developer** pursuing B.Tech in Computer and Communication Engineering at **Amrita Vishwa Vidyapeetham, Chennai**.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I enjoy building real-world solutions involving:
+🎓 B.Tech — Computer & Communication Engineering @ **Amrita Vishwa Vidyapeetham, Chennai**
 
-- 🤖 Machine Learning & Deep Learning
-- 🧠 Generative AI & Large Language Models
-- 🔍 Retrieval Augmented Generation (RAG)
-- 👁️ Computer Vision
-- 📊 Data Science & Analytics
-- 🌐 MLOps & AI Deployment
-- 📡 IoT Systems with Arduino
+🔬 I build intelligent systems that bridge **research and real-world deployment** — from RAG pipelines and LLMs to computer vision and IoT.
 
-> ⚡ **Fun fact:** Founder of **[Neuron Forage](https://github.com/NShiddharth)** — an AI learning community with **700+ members** and growing!
+🌍 Based in **Chennai, Tamil Nadu, India**
+
+📫 Reach me at **shiddharth457@gmail.com**
+
+📄 [View my Resume](https://drive.google.com/file/d/1ADF0ZTXlmVaurb8hq7NjC96b7kqQVUg2/view?usp=sharing)
+
+> ⚡ **Founder of [Neuron Forage](https://github.com/NShiddharth)** — an AI learning community with **700+ members** and growing!
+
+<br clear="right"/>
 
 ---
 
 ## 💼 Current Focus
 
-```yaml
-Learning:
-  - Advanced Machine Learning
-  - Generative AI & Prompt Engineering
-  - RAG Systems & Vector Databases
-  - MLOps & AI Deployment
-  - Computer Vision
-  - Large Language Models
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-Building:
-  - AI Assistants & Chatbots
-  - Computer Vision Applications
-  - Intelligent Document Systems (PDF AI)
-  - Data Analytics Dashboards (Power BI)
-  - IoT Solutions with Arduino
+### 📚 Learning
+![ML](https://img.shields.io/badge/Advanced_ML-0078D4?style=flat-square&logo=python&logoColor=white)<br/>
+![GenAI](https://img.shields.io/badge/Generative_AI-7B2FFF?style=flat-square&logo=openai&logoColor=white)<br/>
+![RAG](https://img.shields.io/badge/RAG_Systems-FF4B4B?style=flat-square)<br/>
+![MLOps](https://img.shields.io/badge/MLOps-00C4FF?style=flat-square&logo=docker&logoColor=white)<br/>
+![CV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)<br/>
+![LLM](https://img.shields.io/badge/Large_Language_Models-4285F4?style=flat-square)
 
-Interested In:
-  - Research Publications
-  - Open Source Contributions
-  - AI Product Development
-  - Startup Projects
-```
+</td>
+    <td valign="top" width="33%">
+
+### 🏗️ Building
+![AI](https://img.shields.io/badge/AI_Assistants-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)<br/>
+![CV](https://img.shields.io/badge/CV_Applications-5C3EE8?style=flat-square&logo=opencv&logoColor=white)<br/>
+![PDF](https://img.shields.io/badge/PDF_Intelligence-FF6F00?style=flat-square&logo=adobeacrobatreader&logoColor=white)<br/>
+![BI](https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)<br/>
+![IoT](https://img.shields.io/badge/IoT_Solutions-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+</td>
+    <td valign="top" width="33%">
+
+### 🎯 Interested In
+![Research](https://img.shields.io/badge/Research_Publications-2F8D46?style=flat-square&logo=googlescholar&logoColor=white)<br/>
+![OSS](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)<br/>
+![Product](https://img.shields.io/badge/AI_Products-0077B5?style=flat-square&logo=linkedin&logoColor=white)<br/>
+![Startup](https://img.shields.io/badge/Startup_Projects-FF4B4B?style=flat-square)
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -111,25 +125,62 @@ Interested In:
 
 ## 🌟 Featured Projects
 
-### 🚦 Pedestrian Crossing Intention Prediction
-> Graph Neural Network based system for predicting pedestrian crossing behavior using the JAAD dataset.
-
-### ✈️ EU Flight Monitoring System
-> Real-time flight monitoring, delay tracking, airport analytics and API development platform using Python.
-
-### 📄 AI-Powered PDF Intelligence System
-> Persona-driven document intelligence platform developed for the **Adobe India Hackathon** — Round 1A.
-
-### ⚡ EV Charging Analytics Dashboard
-> Predictive analytics and visualization system for EV charging pattern analysis using ML & Power BI.
-
-### 🚗 Lane Departure Warning System
-> Computer vision-based intelligent driver assistance solution using OpenCV.
-
-### 🌿 Smart Route Planner with Wind Emission Insights
-> AI-powered eco-route optimizer with real-time emission and wind data integration.
-
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚦 Pedestrian Crossing Intention Prediction</h3>
+      <img src="https://img.shields.io/badge/Graph_Neural_Networks-7B2FFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <br/><br/>
+      GNN-based system predicting pedestrian crossing behavior using the <strong>JAAD dataset</strong>. Combines spatial-temporal graph modeling with deep learning.
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ EU Flight Monitoring System</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data_Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/API_Dev-00C4FF?style=flat-square"/>
+      <br/><br/>
+      Real-time flight monitoring with delay tracking, airport analytics and API development — built entirely in Python.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📄 AI-Powered PDF Intelligence System</h3>
+      <img src="https://img.shields.io/badge/Adobe_Hackathon-FF0000?style=flat-square&logo=adobe&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-FF4B4B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LLMs-4285F4?style=flat-square"/>
+      <br/><br/>
+      Persona-driven document intelligence platform built for the <strong>Adobe India Hackathon — Round 1A</strong>. Extracts and reasons over complex PDFs.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ EV Charging Analytics Dashboard</h3>
+      <img src="https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Predictive_Analytics-00C4FF?style=flat-square"/>
+      <br/><br/>
+      Predictive analytics and visualization system for EV charging pattern analysis — combining ML models with rich Power BI dashboards.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Lane Departure Warning System</h3>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Computer_Vision-7B2FFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/ADAS-FF6F00?style=flat-square"/>
+      <br/><br/>
+      Computer vision-based intelligent driver assistance system using OpenCV — detects lane boundaries and triggers departure warnings in real-time.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 Smart Route Planner with Wind Emission Insights</h3>
+      <img src="https://img.shields.io/badge/AI_Optimization-2F8D46?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Real_Time_Data-00C4FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Emissions_Analysis-F05032?style=flat-square"/>
+      <br/><br/>
+      AI-powered eco-route optimizer integrating real-time wind and emission data for sustainable navigation decisions.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -143,25 +194,50 @@ Interested In:
 
 ---
 
-
 ## 🎯 Looking To Collaborate On
 
-- 🤖 AI/ML Projects & Research
-- 🧠 Generative AI Applications
-- 👁️ Computer Vision Systems
-- 📊 Data Science & Analytics Projects
-- 🔓 Open Source Contributions
-- ⚙️ MLOps & AI Deployment Platforms
-- 📡 IoT Solutions
+<div align="center">
+
+| Domain | What I Bring |
+|--------|-------------|
+| 🤖 **AI/ML Projects & Research** | Model building, experimentation, benchmarking |
+| 🧠 **Generative AI Applications** | LLM integration, RAG pipelines, prompt engineering |
+| 👁️ **Computer Vision Systems** | Object detection, tracking, classification with OpenCV/PyTorch |
+| 📊 **Data Science & Analytics** | EDA, dashboards, predictive modeling with Power BI |
+| 🔓 **Open Source Contributions** | Python packages, AI tools, community projects |
+| ⚙️ **MLOps & AI Deployment** | Dockerized model serving, monitoring with Grafana |
+| 📡 **IoT Solutions** | Sensor integration, Arduino, edge AI |
+
+</div>
 
 ---
 
 ## 🤝 Seeking Help With
 
-- ⚙️ MLOps & Large-Scale AI Deployment
-- 🌐 Distributed Systems
-- 📝 Research Publications
-- 🏗️ Advanced Deep Learning Architectures
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/⚙️_MLOps-00C4FF?style=for-the-badge" /><br/>
+      <sub>Large-Scale AI Deployment & CI/CD for ML</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🌐_Distributed_Systems-7B2FFF?style=for-the-badge" /><br/>
+      <sub>Scalable architectures for AI workloads</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📝_Research_Publications-2F8D46?style=for-the-badge" /><br/>
+      <sub>Writing & submitting to top ML conferences</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🏗️_Deep_Learning_Architectures-FF4B4B?style=for-the-badge" /><br/>
+      <sub>Transformers, GNNs, advanced model design</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
