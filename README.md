@@ -38,23 +38,40 @@
 
 ## 💼 Current Focus
 
-<div align="center">
-
-```
-╔══════════════════════╦══════════════════════╦══════════════════════╗
-║      📚 LEARNING     ║      🏗️  BUILDING    ║    🎯 INTERESTED IN  ║
-╠══════════════════════╬══════════════════════╬══════════════════════╣
-║  Advanced ML         ║  AI Assistants       ║  Research Papers     ║
-║  Generative AI       ║  CV Applications     ║  Open Source         ║
-║  RAG Systems         ║  PDF Intelligence    ║  AI Products         ║
-║  MLOps               ║  Power BI Dashboards ║  Startup Projects    ║
-║  Computer Vision     ║  IoT with Arduino    ║                      ║
-║  Large Language      ║                      ║                      ║
-║  Models              ║                      ║                      ║
-╚══════════════════════╩══════════════════════╩══════════════════════╝
-```
-
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/─────%20📚%20LEARNING%20─────-0D1117?style=for-the-badge&labelColor=0078D4&color=0078D4" />
+      <br/><br/>
+      ✦ Advanced Machine Learning<br/>
+      ✦ Generative AI & Prompt Engineering<br/>
+      ✦ RAG Systems & Vector Databases<br/>
+      ✦ MLOps & AI Deployment<br/>
+      ✦ Computer Vision<br/>
+      ✦ Large Language Models<br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/─────%20🏗️%20BUILDING%20─────-0D1117?style=for-the-badge&labelColor=7B2FFF&color=7B2FFF" />
+      <br/><br/>
+      ✦ AI Assistants & Chatbots<br/>
+      ✦ Computer Vision Applications<br/>
+      ✦ Intelligent PDF Systems<br/>
+      ✦ Power BI Analytics Dashboards<br/>
+      ✦ IoT Solutions with Arduino<br/><br/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/──%20🎯%20INTERESTED%20IN%20──-0D1117?style=for-the-badge&labelColor=00C4FF&color=00C4FF" />
+      <br/><br/>
+      ✦ Research Publications<br/>
+      ✦ Open Source Contributions<br/>
+      ✦ AI Product Development<br/>
+      ✦ Startup Projects<br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
