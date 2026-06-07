@@ -38,40 +38,23 @@
 
 ## 💼 Current Focus
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+<div align="center">
 
-### 📚 Learning
-![ML](https://img.shields.io/badge/Advanced_ML-0078D4?style=flat-square&logo=python&logoColor=white)<br/>
-![GenAI](https://img.shields.io/badge/Generative_AI-7B2FFF?style=flat-square&logo=openai&logoColor=white)<br/>
-![RAG](https://img.shields.io/badge/RAG_Systems-FF4B4B?style=flat-square)<br/>
-![MLOps](https://img.shields.io/badge/MLOps-00C4FF?style=flat-square&logo=docker&logoColor=white)<br/>
-![CV](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)<br/>
-![LLM](https://img.shields.io/badge/Large_Language_Models-4285F4?style=flat-square)
+```
+╔══════════════════════╦══════════════════════╦══════════════════════╗
+║      📚 LEARNING     ║      🏗️  BUILDING    ║    🎯 INTERESTED IN  ║
+╠══════════════════════╬══════════════════════╬══════════════════════╣
+║  Advanced ML         ║  AI Assistants       ║  Research Papers     ║
+║  Generative AI       ║  CV Applications     ║  Open Source         ║
+║  RAG Systems         ║  PDF Intelligence    ║  AI Products         ║
+║  MLOps               ║  Power BI Dashboards ║  Startup Projects    ║
+║  Computer Vision     ║  IoT with Arduino    ║                      ║
+║  Large Language      ║                      ║                      ║
+║  Models              ║                      ║                      ║
+╚══════════════════════╩══════════════════════╩══════════════════════╝
+```
 
-</td>
-    <td valign="top" width="33%">
-
-### 🏗️ Building
-![AI](https://img.shields.io/badge/AI_Assistants-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)<br/>
-![CV](https://img.shields.io/badge/CV_Applications-5C3EE8?style=flat-square&logo=opencv&logoColor=white)<br/>
-![PDF](https://img.shields.io/badge/PDF_Intelligence-FF6F00?style=flat-square&logo=adobeacrobatreader&logoColor=white)<br/>
-![BI](https://img.shields.io/badge/Power_BI_Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black)<br/>
-![IoT](https://img.shields.io/badge/IoT_Solutions-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-</td>
-    <td valign="top" width="33%">
-
-### 🎯 Interested In
-![Research](https://img.shields.io/badge/Research_Publications-2F8D46?style=flat-square&logo=googlescholar&logoColor=white)<br/>
-![OSS](https://img.shields.io/badge/Open_Source-181717?style=flat-square&logo=github&logoColor=white)<br/>
-![Product](https://img.shields.io/badge/AI_Products-0077B5?style=flat-square&logo=linkedin&logoColor=white)<br/>
-![Startup](https://img.shields.io/badge/Startup_Projects-FF4B4B?style=flat-square)
-
-</td>
-  </tr>
-</table>
+</div>
 
 ---
 
