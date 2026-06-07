@@ -149,15 +149,6 @@ Interested In:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NShiddharth&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" />
-
-</div>
-
----
 
 ## 🎯 Looking To Collaborate On
 
