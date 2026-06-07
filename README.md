@@ -123,15 +123,6 @@ Computer vision-based intelligent driver assistance solution.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NShiddharth&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
 
 ## 🎯 Looking To Collaborate On
 
