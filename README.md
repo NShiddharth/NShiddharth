@@ -131,15 +131,9 @@ Interested In:
 
 ---
 
+---
+
 ## 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=NShiddharth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF&icon_color=7B2FFF&text_color=FFFFFF"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NShiddharth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C4FF&text_color=FFFFFF"/>
-
-</div>
 
 <div align="center">
 
